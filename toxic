@@ -1,0 +1,2 @@
+#!/bin/sh
+cd $PREFIX/share/X0N4Y3M && python main.py

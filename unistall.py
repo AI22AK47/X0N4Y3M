@@ -1,0 +1,20 @@
+import os
+import time
+
+os.system('clear')
+os.system('figlet -f small USISTALLING.. | lolcat')
+print('[+] Unistalling programme...')
+os.system('cd $PREFIX/share && rm -rf X0N4Y3M')
+time.sleep(3)
+os.system('cd $PREFIX/bin && rm toxic')
+print('DONE')
+print('DONE')
+print('DONE')
+print('DONE')
+print('DONE')
+print('DONE')
+print('DONE')
+time.sleep(3)
+print('DONE')
+print('DONE')
+print('DONE')
